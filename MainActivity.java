@@ -1,4 +1,4 @@
-ackage com.example.learn.simple;
+package com.example.learn.simple;
 
 import android.Manifest;
 import android.app.Application;
